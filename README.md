@@ -1,9 +1,13 @@
 - 🎨 Roshan Ojha | UI/UX Designer & Front-End Developer
+- 
+https://rossojha.github.io/roshan-portfolio/
 
 Crafting intuitive, clean, and meaningful digital experiences.
 
 ✦ Focused on minimal, user-centric design.
+
 ✦ Passionate about interactive UI elements, smooth animations & micro-interactions.
+
 ✦ Currently building visually polished projects & continuously learning.
 
 🚀 Let’s turn ideas into experiences!
