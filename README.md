@@ -1,6 +1,6 @@
 - 🎨 Roshan Ojha | UI/UX Designer & Front-End Developer
 
-https://rossojha.github.io/roshan-portfolio/
+- https://roshan-ojha.com.np/
 
 Crafting intuitive, clean, and meaningful digital experiences.
 
